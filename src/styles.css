@@ -48,10 +48,40 @@ body {
   font-size: 16px;
   font-weight: 500;
   font-style: normal;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
   line-height: 24px;
 }
 
+/* SUSCRIPTION CONTENT  */
+.subscription-content {
+  background-color: hsla(228, 100%, 98%, 1);
+  width: 360px;
+  display: inline-flex;
+  padding: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 18px;
+  border-radius: 10px;
+}
+
+h3 {
+  color: hsl(223, 47%, 23%);
+  margin-bottom: 3px;
+}
+
+p {
+  font-size: 16px;
+  color: hsl(224, 23%, 55%);
+}
+.change-btn {
+  padding-left: 66px;
+  color: hsl(245, 75%, 52%);
+}
+
+.change-btn:hover {
+  text-decoration: none;
+  color: pink;
+}
 /* Mobile styling  */
 @media screen and (max-width: 500px) {
   body {
