@@ -6,7 +6,7 @@
 
 The challenge was to build out an order summary card component and get it looking as close to the design as possible. Check their design >> [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj).
 
-Live Site URL: [CLICK ME](https://tp-order-summary-card.netlify.app/)
+Checkout My Live Site: [CLICK ME](https://tp-order-summary-card.netlify.app/)
 
 ### Built with
 
