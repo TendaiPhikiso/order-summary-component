@@ -61,9 +61,9 @@ body {
   gap: 18px;
   border-radius: 10px;
 }
-
-h3 {
+.item-title {
   color: hsl(223, 47%, 23%);
+  font-weight: 710;
   margin-bottom: 3px;
 }
 
